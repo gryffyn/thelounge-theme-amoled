@@ -1,8 +1,7 @@
-## thelounge-theme-amoled
-🎨 Black theme suitable for AMOLED displays
+## thelounge-theme-amoled-sourcecodepro
+🎨 Black theme suitable for AMOLED displays, with Source Code Pro.  
+fork of [thelounge-theme-amoled](https://github.com/realies/thelounge-theme-amoled)
 
 ```
-thelounge install thelounge-theme-amoled
+thelounge install thelounge-theme-amoled-sourcecodepro
 ```
-
-![](https://user-images.githubusercontent.com/5107843/91648006-fdd7f900-ea59-11ea-85b6-64dfefef2367.png)

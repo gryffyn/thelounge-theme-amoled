@@ -1,27 +1,28 @@
 {
-  "name": "thelounge-theme-amoled",
+  "name": "thelounge-theme-amoled-sourcecodepro",
   "version": "1.0.15",
-  "description": "Black theme suitable for AMOLED displays",
+  "description": "Black theme suitable for AMOLED displays - with Source Code Pro",
   "main": "package.json",
   "thelounge": {
-    "name": "Amoled",
+    "name": "Amoled-SCP",
     "type": "theme",
     "css": "theme.css"
   },
   "license": "MIT",
-  "homepage": "https://github.com/realies/thelounge-theme-amoled",
+  "homepage": "https://github.com/gryffyn/thelounge-theme-amoled",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/realies/thelounge-theme-amoled.git"
+    "url": "git+https://github.com/gryffyn/thelounge-theme-amoled.git"
   },
   "keywords": [
     "amoled",
+    "monospace",
     "black",
     "dark",
     "thelounge",
     "thelounge-theme"
   ],
   "bugs": {
-    "url": "https://github.com/realies/thelounge-theme-amoled/issues"
+    "url": "https://github.com/gryffyn/thelounge-theme-amoled/issues"
   }
 }
